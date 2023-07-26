@@ -9,9 +9,7 @@ Run:
     allure serve - Run report 
 
 
-
 Required add to path:
 
     maven
     allure commandline
-
