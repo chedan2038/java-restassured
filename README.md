@@ -1,15 +1,18 @@
-# java-restassured
+# java-selenium
 
-Automation of API tests using Rest-Assured
+Automation of tests using Selenium
 
 Run:
-mvn test - Run tests
-allure serve - Run report 
+
+    mvn test - Run tests 
+
+    allure serve - Run report 
 
 
-_____________________
+
 Required add to path:
-maven
-allure commandline
-_____________________
+
+    maven
+    allure commandline
+
 
