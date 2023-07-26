@@ -1,6 +1,6 @@
 # java-restassured
 
-Automation of tests using Selenium
+Automation of tests using Rest-assured
 
 Run:
 
